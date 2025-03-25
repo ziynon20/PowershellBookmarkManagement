@@ -2,7 +2,7 @@
 
 A collection of useful Powershell scripts.
 
-## UserPrompts
+## UserPrompts Script 
 
 **UserPrompts** is an interactive way of setting bookmarks for users in Chrome.
 
